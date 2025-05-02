@@ -1,6 +1,6 @@
-for (let number = 1; number < 100; number++) {
+for (let number = 2; number < 100; number++) {
   const element = number;
-  if (
+    if (
     element === 2 ||
     element === 3 ||
     element === 5 ||
